@@ -19,4 +19,8 @@ public class Hhhh {
 		System.out.println("hello5");
 	}
 	
+	public void hello6() {
+		System.out.println("hello6");
+	}
+	
 }
