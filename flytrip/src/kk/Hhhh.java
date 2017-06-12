@@ -34,4 +34,9 @@ public class Hhhh {
 	public void hello9() {
 		System.out.println("hello6");
 	}
+	
+	public void hello10() {
+		System.out.println("hello10");
+	}
+	
 }
