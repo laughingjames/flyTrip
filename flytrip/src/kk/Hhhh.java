@@ -15,4 +15,8 @@ public class Hhhh {
 		System.out.println("hello4");
 	}
 	
+	public void hello5() {
+		System.out.println("hello5");
+	}
+	
 }
