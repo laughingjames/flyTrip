@@ -23,4 +23,8 @@ public class Hhhh {
 		System.out.println("hello6");
 	}
 	
+	public void hello7() {
+		System.out.println("hello6");
+	}
+	
 }
